@@ -1,0 +1,70 @@
+codeanywhere.com
+cloud.google.com - VM
+studio.azureml.net (jupyter notebook)
+
+Kubernetess (MiniKube)
+Docker
+
+REST API
+GoLang
+
+MIME Type:
+text/plain
+text/html
+application/json
+
+XML/JSON
+
+HTTP Request Method
+GET (не только браузер, но telnet)
+POST (изменение данных)
+PUT (создание)
+DELETE
+-- HEAD
+-- TABLE
+
+CRUD
+
+GET
+/
+/news/
+/news/all
+/news/5
+/news/delete/5
+DELETE /news/5
+/users/
+
+swagger.io
+Postman
+ApiAry
+
+/v1/
+
+RabbitMQ
+Python/Celery
+
+Putty, SSH
+RSA: pub, private
+
+Google API
+Amazon AWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
